@@ -12,7 +12,7 @@
 
 ### Part I — Metaprogramming Ruby
 - [x] Chapter 1 — The M Word
-- [ ] Chapter 2 — Monday: The Object Model
+- [x] Chapter 2 — Monday: The Object Model
 - [ ] Chapter 3 — Tuesday: Methods
 - [ ] Chapter 4 — Wednesday: Blocks
 - [ ] Chapter 5 — Thursday: Class Definitions
